@@ -1,0 +1,25 @@
+
+body{
+  background: rgb(245,245,245);
+  color: back;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  color: red;
+  font-weight: lighter;
+  font-size: 20px;
+}
+h2 {
+  color: yellow;
+  background: green;
+  font-weight: lighter;
+  font-size: 40px;
+}
+a {
+  color: pnik;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
